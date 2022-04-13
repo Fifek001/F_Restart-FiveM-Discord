@@ -9,4 +9,6 @@ w server.cfg lub innym pliku w którym startujesz Swoje Skrypty wpisz:
 
 start F_restart
 
+
+(Tylko zmień nazwe Folderu Skryptu na F_restart)
 Edytuj Plik Server.lua
